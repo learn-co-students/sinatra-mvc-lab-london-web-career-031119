@@ -1,0 +1,11 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	0	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+Learn.co Educational Content License	/Users/manon/Development/code/sinatra-mvc-lab-london-web-career-031119/LICENSE.md	/^#Learn.co Educational Content License$/;"	function	line:1
+App	/Users/manon/Development/code/sinatra-mvc-lab-london-web-career-031119/app.rb	/^class App < Sinatra::Base$/;"	class	line:3
+app	/Users/manon/Development/code/sinatra-mvc-lab-london-web-career-031119/spec/spec_helper.rb	/^def app$/;"	method	line:13
+Sinatra MVC Lab - Pig Latinizer	/Users/manon/Development/code/sinatra-mvc-lab-london-web-career-031119/README.md	/^# Sinatra MVC Lab - Pig Latinizer$/;"	function	line:1
+Instructions	/Users/manon/Development/code/sinatra-mvc-lab-london-web-career-031119/README.md	/^## Instructions$/;"	function	line:7
